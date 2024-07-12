@@ -5,7 +5,7 @@
   <img src="https://piskel-imgstore-b.appspot.com/img/d60daade-402f-11ef-a417-471369f745b6.gif" alt="Cute" width="300"/>
 </p>
 
-<h3 align="center">I come from Yuma, Arizona. The lettuce capital of the world!</h3>
+<h3 align="center">Meet lettuce</h3>
 ---
 
 - 🔭 I’m currently working on [Sonoran Desert Project](https://github.com/PatrickNWJ/Sonoran-Desert-Project)
