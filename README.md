@@ -2,10 +2,10 @@
 <h3 align="center">Passionate software engineer with a focus on full stack web and game development.</h3>
 
 <p align="center">
-  <img src="https://piskel-imgstore-b.appspot.com/img/d60daade-402f-11ef-a417-471369f745b6.gif" alt="Cute" width="300"/>
+  <img src="https://piskel-imgstore-b.appspot.com/img/09c3de19-4031-11ef-8417-471369f745b6.gif" alt="Cute" width="300"/>
 </p>
 
-<h3 align="center">Meet lettuce</h3>
+<h3 align="center">Lettuce Code</h3>
 ---
 
 - 🔭 I’m currently working on [Sonoran Desert Project](https://github.com/PatrickNWJ/Sonoran-Desert-Project)
