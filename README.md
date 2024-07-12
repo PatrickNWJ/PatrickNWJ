@@ -1,12 +1,11 @@
-# Hi there, I'm Patrick Walker Jauregui! 👋
+# Howdy, I'm Patrick Walker Jauregui!
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a focus on full stack web and game development. Below you'll find an overview of my skills and some of the projects I've worked on.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [Sonoran Desert Project](https://github.com/PatrickNWJ/Sonoran-Desert-Project)
-- 💻 I like to code for fun and explore new technologies.
-- 🌟 I’m looking to contribute to open-source projects.
+
 - 📫 How to reach me: **patrick.n.walkerjauregui@gmail.com**
 
 ## 🛠 Skills
