@@ -2,7 +2,7 @@
 <h3 align="center">Passionate software engineer with a focus on full stack web and game development.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsspfBxiqRlye4Q/giphy.gif](https://piskel-imgstore-b.appspot.com/img/d60daade-402f-11ef-a417-471369f745b6.gif" alt="Cute" width="300"/>
+  <img src="https://piskel-imgstore-b.appspot.com/img/d60daade-402f-11ef-a417-471369f745b6.gif" alt="Cute" width="300"/>
 </p>
 
 ---
