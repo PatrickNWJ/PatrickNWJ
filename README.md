@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickNWJ&show_icons=true&theme=radical)
 
+###
+
 <p align="center">
   <img src="https://piskel-imgstore-b.appspot.com/img/09c3de19-4031-11ef-8417-471369f745b6.gif" alt="Cute" width="300"/>
 </p>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+
 </p>
