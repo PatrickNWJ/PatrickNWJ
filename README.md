@@ -1,11 +1,12 @@
-# Howdy, I'm Patrick Walker Jauregui! 
+# Hi there, I'm Patrick Walker Jauregui! 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a focus on full stack web and game development. Below you'll find an overview of my skills and some of the projects I've worked on.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [Sonoran Desert Project](https://github.com/PatrickNWJ/Sonoran-Desert-Project)
-
+- 💻 I like to code for fun and explore new technologies.
+- 🌟 I’m looking to contribute to open-source projects.
 - 📫 How to reach me: **patrick.n.walkerjauregui@gmail.com**
 
 ## 🛠 Skills
@@ -23,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,10 +39,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickNWJ&show_icons=true&theme=radical)
 
-###
-
 <p align="center">
-  <img src="https://piskel-imgstore-b.appspot.com/img/09c3de19-4031-11ef-8417-471369f745b6.gif" alt="Cute" width="300"/>
-</p>
-
+  <img src="https://media.giphy.com/media/26gsspfBxiqRlye4Q/giphy.gif" alt="Cute video game animation" width="300"/>
 </p>
